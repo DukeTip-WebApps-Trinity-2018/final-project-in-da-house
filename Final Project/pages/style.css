@@ -1,0 +1,161 @@
+.navbrandpic{
+    width: 45px;
+    height: 45px;
+    text-align: right;
+}
+.footerimg{
+    height: 180px;
+    width: 240px;
+}
+#footertext{
+    text-align: center; 
+    font-size: 30px;  
+    margin-left: auto;
+    margin-right: auto;  
+    margin-bottom: 0px;   
+}
+footer{
+    background-color: darkslategrey;
+    color: white;
+    padding: 50px;
+    margin-left: -0px;
+    margin-right: -0px;  
+    margin-bottom: -10px;   
+}
+body{
+background-color: rgb(248, 216, 112);
+}
+.text{
+    padding: left 10px right 10px;
+    font-family: "Quicksand"; 
+    text-align: center;
+}
+h2, .menufont{
+    font-family: "Quicksand";
+    text-align: center;
+    color: #304F4E;
+    font-weight: bold;
+}
+.oclass{
+    font-size: 35px;            
+}
+.list-bulets{
+    list-style-type: none;
+}
+.font-larger{
+    font-size: 10px;
+}
+.cats{
+    border-right: auto;
+    border-left: auto;
+    height: 300px;
+    width: 480px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.menuheader{
+    color: #304F4E;
+    font-weight: bold;
+}
+.centerer{
+    text-align:center;
+}
+p{
+    text-align:center;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+.imagesright{
+    position: absolute;
+    right: 0px;
+    width: 350px;
+    height: 270px;
+    padding: 20px;
+    margin-right: 30px;
+}
+.imagesleft{
+    position: absolute;
+    left: 0px;
+    width: 350px;
+    height: 270px;
+    padding: 20px;
+    margin-left: 30px;
+}
+.menucarousel{
+    height: 900px;
+    width: 1348px;
+}
+@media(min-width: 1900px){
+    .times{
+    font-family: "quicksand";
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+.timesright{
+    font-family: "quicksand";
+    padding-left: 100px;
+    padding-right: 0px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+@media (min-width: 800px) and (max-width: 1900px){
+    .times{
+        padding: auto;
+        text-align: center;
+    } 
+    .timesright{
+        padding: auto;
+        text-align: center;
+    } 
+}
+@media(max-width: 1200px){
+.times{
+    padding: auto;
+    text-align: center;
+}
+.timesright{
+    padding: auto;
+    text-align: center;
+}
+}
+}
+
+.timesunder{
+    font-family: "quicksand";
+    font-size: 17px;
+}
+.card-body{
+    background-color:rgb(248, 216, 112);
+}
+.text-center{
+    text-align:center;
+}
+.border{
+    border-width: 5px;
+}
+.button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.pic{
+    border: dashed #00CC99;
+}
+.cityc{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.header{
+    position: absolute;
+}
+footer{
+    margin-bottom: -300px;
+}
