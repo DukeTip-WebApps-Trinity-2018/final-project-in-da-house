@@ -159,3 +159,26 @@ p{
 footer{
     margin-bottom: -300px;
 }
+@media(min-width: 1900px){
+    .catsp{
+    font-family: "quicksand";
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+@media (min-width: 800px) and (max-width: 1900px){
+    .catsp{
+        padding: auto;
+        text-align: center;
+    } 
+}
+@media(max-width: 1200px){
+.catsp{
+    padding: auto;
+    text-align: center;
+}
+}
+}
