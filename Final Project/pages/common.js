@@ -1,7 +1,10 @@
-$(document).ready(function(){
-    $('.nav-item').hover(hoverNav, unHoverNav);
-    });
-function hoverNav(){
-    $('nav-item').css("color", "orange");
-    console.log("hoverfooter");
+$(".timesfont").click(function (changeToRoman) {
+    console.log("timesnewroman");
+
+});
+$(".comicfont").click(function () {
+    console.log("comicsans");
+});
+function changeToRoman(){
+    $('html').css("font-family", "timesnewroman");
 }
