@@ -46,6 +46,12 @@ h2, .menufont{
 .font-larger{
     font-size: 10px;
 }
+.card-body{
+    background-color:rgb(248, 216, 112);
+}
+.card-header{
+    background-color:#b4d3fc;
+}
 .cats{
     border-right: auto;
     border-left: auto;
