@@ -189,6 +189,7 @@ p{
 }
 .card-header{
     background-color:#b4d3fc;
+    border: 10px solid black;
 }
 .text-center{
     text-align:center;
